@@ -8,4 +8,4 @@ Workshopper exercises open source lesson modules associated with NodeSchool
 https://nodeschool.io/pl/
 
 So fare i'm working with:
-javascripting
+	javascripting
